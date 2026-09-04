@@ -181,6 +181,14 @@ S.V.M.I.C, Gonda, UP · 2023 – 2024
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=blackshadowog&theme=radical&hide_border=true&background=2E2A26&ring=E5716B&fire=B23A34&currStreakLabel=E5716B"
+    alt="GitHub Streak"
+    height="170"
+  />
+</p>
+
 <!--
 🐍 Want an animated snake eating your contribution graph (like the one on many GitHub profiles)?
 1. In this repo, create `.github/workflows/snake.yml` using the official action:

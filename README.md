@@ -21,6 +21,7 @@
 
 - 🎓 Pursuing **B.Tech, Computer Science & Engineering (AI/ML)** at IEC College of Engineering and Technology · Class of **2028**
 - 💻 Currently interning as a **Data Analyst** at Axlero Innovative Solutions & NEXLEVR
+- 🏗️ Building **MetricMind**, an agentic semantic BI engine (dbt · Cube.dev · LangGraph)
 - 🤝 Open to collaborating on **Data Analytics, Dashboards & ML projects**
 - 📫 Reach me at **atiwari73874@gmail.com**
 - ⚡ Fun fact: I sketch my dashboards before I build them — hence the "notebook" theme 📓
@@ -54,6 +55,8 @@ Built responsive web apps with HTML5, CSS3, and JavaScript, using Git/GitHub for
 
 | Project | What it does | Stack | Link |
 |---|---|---|---|
+| **MetricMind** | Agentic semantic BI engine — an AI agent answers business questions by emitting semantic `cube_query` calls (never raw SQL), backed by a full dbt transformation layer and a 15-cube semantic model | dbt · Cube.dev · LangGraph · Next.js · DuckDB | [GitHub ↗](https://github.com/blackshadowog) |
+| **RentMyThing** | Peer-to-peer campus rental marketplace pitch for Indian college campuses, with AI fraud detection and a live demo; built with Team BlackTech for ThinkForBharat 1.0 | Gemini API · pptxgenjs · Product Design | [GitHub ↗](https://github.com/blackshadowog) |
 | **Database Design for an E-Commerce Store** | Fully normalized relational schema for products, customers, orders, and payments | MySQL · ER Diagram · Normalization | [GitHub ↗](https://github.com/blackshadowog/Database-Design-for-an-E-commerce-Store-MySQL-) |
 | **Inventory Management System** | Relational database tracking inventory, suppliers, stock, and orders with CRUD + aggregate queries | MySQL Workbench · CRUD | [GitHub ↗](https://github.com/blackshadowog/Inventory-Management-System) |
 | **Blacksort Pro X** | File management app that auto-sorts and categorizes files | Python · Automation | [Live Demo ↗](https://blacksort-pro-x.vercel.app/) |
@@ -65,6 +68,8 @@ Built responsive web apps with HTML5, CSS3, and JavaScript, using Git/GitHub for
 | **YuvaIntern AI Trainee Projects** | Collection of AI trainee assignments spanning core ML & applied AI | Python · Machine Learning | [GitHub ↗](https://github.com/blackshadowog/yuva-intern-projects-Artificial-intelligence-AI-trainee-) |
 | **Digital Civic Portal** — Smart India Hackathon | Built with teammate Prateek Vijay — citizens report civic issues with photos + location; officers get a tracking dashboard | SIH · Full-Stack · Team Project | [Live Site ↗](https://digitalcivicportal.netlify.app/) |
 | **Code Craft** | Browser-based coding playground for writing & running code snippets | JavaScript · Web App | [Live Site ↗](https://code-craft-gbgy.vercel.app/) |
+
+> 📝 Update the MetricMind and RentMyThing links above once those repos are public.
 
 ---
 
@@ -178,10 +183,10 @@ S.V.M.I.C, Gonda, UP · 2023 – 2024
 
 <!--
 🐍 Want an animated snake eating your contribution graph (like the one on many GitHub profiles)?
-1. In this repo, go to Settings → Secrets → Actions is not needed; just add a workflow file.
-2. Create `.github/workflows/snake.yml` in this repo with the official action:
+1. In this repo, create `.github/workflows/snake.yml` using the official action:
    https://github.com/Platane/snk — it generates a `github-contribution-grid-snake.svg`
-3. Then embed it here with: <img src="https://raw.githubusercontent.com/blackshadowog/blackshadowog/output/github-contribution-grid-snake.svg" />
+2. Embed it here with:
+   <img src="https://raw.githubusercontent.com/blackshadowog/blackshadowog/output/github-contribution-grid-snake.svg" />
 Ask me anytime and I'll write the exact workflow file for you.
 -->
 
